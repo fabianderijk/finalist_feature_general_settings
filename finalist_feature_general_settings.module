@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Pantera Finalist feature:General settings feature.
+ */
+
+include_once 'finalist_feature_general_settings.features.inc';
